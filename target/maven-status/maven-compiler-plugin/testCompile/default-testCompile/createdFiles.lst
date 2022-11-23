@@ -1,0 +1,16 @@
+com\E_Bank_AutoProject\pageobjects\ReqLoanpage.class
+com\E_Bank_AutoProject\testcases\Baseclass.class
+com\E_Bank_AutoProject\testcases\TC_requestloan_005.class
+com\E_Bank_AutoProject\pageobjects\Billpaypage.class
+com\E_Bank_AutoProject\pageobjects\Loginpage.class
+com\E_Bank_AutoProject\testcases\TC_custCare_003.class
+com\E_Bank_AutoProject\utilities\ReadConfig.class
+com\E_Bank_AutoProject\utilities\XLutility.class
+com\E_Bank_AutoProject\pageobjects\LogOutpage.class
+com\E_Bank_AutoProject\testcases\TC_logout_006.class
+com\E_Bank_AutoProject\pageobjects\CustomerCarepage.class
+com\E_Bank_AutoProject\testcases\TC_logintest_001.class
+com\E_Bank_AutoProject\testcases\TC_billpayment_002.class
+com\E_Bank_AutoProject\pageobjects\TransferFundspage.class
+com\E_Bank_AutoProject\testcases\TC_fundstransfer_004.class
+com\E_Bank_AutoProject\utilities\Reporting.class
